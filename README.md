@@ -19,7 +19,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 14 High/Medium | 10 Highs  |  5 Mediums  |  6 Lows   |
+| 19 High/Medium | 12 Highs  |  6 Mediums  |  8 Lows   |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -31,6 +31,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |        [MorpheusAI](https://codehawks.cyfrin.io/c/2024-01-Morpheus/)         |     -     |      -      |    1     |                          [Report](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/62)                          |         |           |
 |        [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold)        |     1     |      -      |    -     |                        [Report](https://codehawks.cyfrin.io/c/2024-07-templegold/s/323)                         |         |           |
 |      [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy)       |     -     |      -      |    1     | [Report](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |         |           |
+|             [Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros)             |     2     |      1      |    2     |  [Report](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&sc=reward&sj=reward&page=1&t=report)   |         |           |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
