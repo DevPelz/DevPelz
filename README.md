@@ -1,6 +1,7 @@
 # About Me
 
-Hey 👋, Pelz here! I'm an independent blockchain security researcher, busy competing in audit contests on platforms like Code4rena, Sherlock, and Codehawks. Check out my past findings and contest results here.
+Hey 👋, Pelz here! I'm an independent blockchain security researcher, actively competing in audit contests on platforms like Code4rena, Sherlock, and Codehawks. My mission as an auditor is to safeguard decentralized ecosystems by identifying and fixing vulnerabilities before they can be exploited. With extensive experience in smart contract auditing, I focus on providing tailored security insights to protect your projects. Whether you're looking to strengthen your protocols or launch securely, I’m here to help make your smart contracts bulletproof.
+You can contact me for private audits through any of my socials and check out my past findings and contest results below.
 
 - Code4rena Profile: [Pelz](https://code4rena.com/@Pelz)
 - Sherlock Profile: [Pelz](https://audits.sherlock.xyz/watson/Pelz)
@@ -24,22 +25,22 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
 |                                   Contest                                    | High risk | Medium risk | Low risk |                                                 Security Report                                                 | Ranking | Team Name |
-| :--------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------------------------------------------: | ------- | --------- |
-| [Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz) |     1     |      0      |    -     |   [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%233_-Thunder-Loan.md)    |         |           |
-| [Santa's List](https://www.codehawks.com/contests/clpba0ama0001ywpabex01hrp) |     3     |      0      |    -     |   [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%235_-Santa's-List.md)    |         |           |
-|  [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)  |     2     |      1      |    -     |                                                   [Report]()                                                    |         |           |
-|        [MorpheusAI](https://codehawks.cyfrin.io/c/2024-01-Morpheus/)         |     -     |      -      |    1     |                          [Report](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/62)                          |         |           |
-|        [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold)        |     1     |      -      |    -     |                        [Report](https://codehawks.cyfrin.io/c/2024-07-templegold/s/323)                         |         |           |
-|      [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy)       |     -     |      -      |    1     | [Report](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |         |           |
-|             [Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros)             |     2     |      1      |    2     |  [Report](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&sc=reward&sj=reward&page=1&t=report)   |         |           |
+| :--------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------------------------------------------: | :-----: | --------- |
+| [Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz) |     1     |      0      |    -     |   [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%233_-Thunder-Loan.md)    |    -    |           |
+| [Santa's List](https://www.codehawks.com/contests/clpba0ama0001ywpabex01hrp) |     3     |      0      |    -     |   [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%235_-Santa's-List.md)    |    -    |           |
+|  [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)  |     2     |      1      |    -     |                                                   [Report]()                                                    |    -    |           |
+|        [MorpheusAI](https://codehawks.cyfrin.io/c/2024-01-Morpheus/)         |     -     |      -      |    1     |                          [Report](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/62)                          |  50th   |           |
+|        [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold)        |     1     |      -      |    -     |                        [Report](https://codehawks.cyfrin.io/c/2024-07-templegold/s/323)                         |  60th   |           |
+|      [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy)       |     -     |      -      |    1     | [Report](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |  17th   |           |
+|             [Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros)             |     2     |      1      |    2     |  [Report](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&sc=reward&sj=reward&page=1&t=report)   |  45th   |           |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
 |                            Contest                            | High risk | Medium risk | Low risk |                             Security Report                              | Ranking | Team Name |
-| :-----------------------------------------------------------: | :-------: | :---------: | :------: | :----------------------------------------------------------------------: | ------- | --------- |
-| [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) |     2     |      1      |    -     | [Report](https://github.com/code-423n4/2024-02-ai-arena-findings/issues) |         |           |
-|     [Noya](https://code4rena.com/audits/2024-04-noya#top)     |     -     |      1      |    -     |                             [Coming soon]()                              |         |           |
-|    [Predy](https://code4rena.com/audits/2024-05-predy#top)    |     -     |      1      |    -     |                             [Coming soon]()                              |         |           |
+| :-----------------------------------------------------------: | :-------: | :---------: | :------: | :----------------------------------------------------------------------: | :-----: | --------- |
+| [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) |     2     |      1      |    -     | [Report](https://github.com/code-423n4/2024-02-ai-arena-findings/issues) |  260th  |           |
+|     [Noya](https://code4rena.com/audits/2024-04-noya#top)     |     -     |      1      |    -     |                             [Coming soon]()                              |  109th  |           |
+|    [Predy](https://code4rena.com/audits/2024-05-predy#top)    |     -     |      1      |    -     |                             [Coming soon]()                              |  51st   |           |
 
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 
