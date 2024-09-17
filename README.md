@@ -20,7 +20,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 19 High/Medium | 12 Highs  |  6 Mediums  |  8 Lows   |
+| 22 High/Medium | 13 Highs  |  7 Mediums  |  9 Lows   |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -51,7 +51,8 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 ## Private Contests/ Low Findings
 
-|                            Contest                             | High risk | Medium risk | Low risk | Ranking |                                                      Security report                                                       |
-| :------------------------------------------------------------: | :-------: | :---------: | :------: | :-----: | :------------------------------------------------------------------------------------------------------------------------: |
-| [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)  |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
-| [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters) |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
+|                                   Contest                                   | High risk | Medium risk | Low risk | Ranking |                                                      Security report                                                       |
+| :-------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-----: | :------------------------------------------------------------------------------------------------------------------------: |
+|        [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)        |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
+|       [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters)        |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
+| [WorldCoin Bridge Linea](https://github.com/kfastov/worldcoin-bridge-linea) |     1     |      1      |    1     |    -    |    [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_WorldCoin_Bridge_Linea_Security_Review.pdf)    |
