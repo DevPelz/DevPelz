@@ -18,9 +18,13 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 # Summary - Pelz
 
+🥇 - 1st
+🥈 - 2nd
+🥉 - 3rd
+
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 22 High/Medium | 13 Highs  |  7 Mediums  |  9 Lows   |
+| 25 High/Medium | 15 Highs  |  7 Mediums  |  10 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -33,6 +37,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |        [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold)        |     1     |      -      |    -     |                        [Report](https://codehawks.cyfrin.io/c/2024-07-templegold/s/323)                         |  60th   |           |
 |      [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy)       |     -     |      -      |    1     | [Report](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |  17th   |           |
 |             [Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros)             |     2     |      1      |    2     |  [Report](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&sc=reward&sj=reward&page=1&t=report)   |  45th   |           |
+|             [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)             |     2     |      -      |    1     |                     [Report](https://codehawks.cyfrin.io/c/2024-08-tadle/results?t=report)                      |    -    |           |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
@@ -56,3 +61,9 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |        [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)        |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
 |       [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters)        |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
 | [WorldCoin Bridge Linea](https://github.com/kfastov/worldcoin-bridge-linea) |     1     |      1      |    1     |    -    |    [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_WorldCoin_Bridge_Linea_Security_Review.pdf)    |
+
+## Judging Contests
+
+|                       Contest                        | Ranking |
+| :--------------------------------------------------: | :-----: |
+| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) |   🥈    |
