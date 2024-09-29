@@ -64,6 +64,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 ## Judging Contests
 
-|                       Contest                        | Ranking |
-| :--------------------------------------------------: | :-----: |
-| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) |   🥈    |
+|                                                       Contest                                                        | Ranking |
+| :------------------------------------------------------------------------------------------------------------------: | :-----: |
+|             [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?t=leaderboard&lt=judging&page=1)             |   🥈    |
+| [Ark Project: NFT Bridge](https://codehawks.cyfrin.io/c/2024-07-ark-project/results?t=leaderboard&lt=judging&page=1) |   6th   |
