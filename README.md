@@ -47,14 +47,14 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |     [Noya](https://code4rena.com/audits/2024-04-noya#top)     |     -     |      1      |    -     |                             [Coming soon]()                              |  109th  |           |
 |    [Predy](https://code4rena.com/audits/2024-05-predy#top)    |     -     |      1      |    -     |                             [Coming soon]()                              |  51st   |           |
 
-## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
+## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" width=27 height=27> Sherlock
 
 |                           Contest                            | High risk | Medium risk |                                         Security Report                                          | Ranking | Team Name |
 | :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :-------: |
 | [Exactly Protocol](https://audits.sherlock.xyz/contests/396) |     -     |      1      | [Report](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues/22) |   4th   | HackTrace |
 |   [Velocimeter](https://audits.sherlock.xyz/contests/442)    |     1     |      -      |                    [Report](https://audits.sherlock.xyz/contests/442/report)                     |    -    | HackTrace |
 
-## Private Contests / Audits
+# Private Contests / Audits
 
 |                                   Contest                                   | High risk | Medium risk | Low risk | Ranking |                                                      Security report                                                       |
 | :-------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-----: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -62,7 +62,9 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |       [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters)        |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
 | [WorldCoin Bridge Linea](https://github.com/kfastov/worldcoin-bridge-linea) |     1     |      1      |    1     |    -    |    [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_WorldCoin_Bridge_Linea_Security_Review.pdf)    |
 
-## Judging Contests
+# Judging Contests
+
+## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
 |                                                       Contest                                                        | Ranking |
 | :------------------------------------------------------------------------------------------------------------------: | :-----: |
