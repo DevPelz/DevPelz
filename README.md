@@ -24,7 +24,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 25 High/Medium | 15 Highs  |  7 Mediums  |  10 Lows  |
+| 26 High/Medium | 16 Highs  |  7 Mediums  |  10 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -53,6 +53,12 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 | :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :-------: |
 | [Exactly Protocol](https://audits.sherlock.xyz/contests/396) |     -     |      1      | [Report](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues/22) |   4th   | HackTrace |
 |   [Velocimeter](https://audits.sherlock.xyz/contests/442)    |     1     |      -      |                    [Report](https://audits.sherlock.xyz/contests/442/report)                     |    -    | HackTrace |
+
+## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
+
+|                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking | Team Name |
+| :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
+| [Royco Protocol](https://cantina.xyz/code/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/README.md) |     1     |      -      | [Report](https://cantina.xyz/code/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/findings/411) |   83    |     -     |
 
 # Private Contests / Audits
 
