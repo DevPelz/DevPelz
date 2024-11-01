@@ -24,7 +24,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 26 High/Medium | 16 Highs  |  7 Mediums  |  10 Lows  |
+| 36 High/Medium | 27 Highs  |  9 Mediums  |  11 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -53,6 +53,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 | :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :-------: |
 | [Exactly Protocol](https://audits.sherlock.xyz/contests/396) |     -     |      1      | [Report](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues/22) |   4th   | HackTrace |
 |   [Velocimeter](https://audits.sherlock.xyz/contests/442)    |     1     |      -      |                    [Report](https://audits.sherlock.xyz/contests/442/report)                     |    -    | HackTrace |
+|     [ZeroLend](https://audits.sherlock.xyz/contests/466)     |     -     |      1      |                    [Report](https://audits.sherlock.xyz/contests/466/report)                     |    -    | HackTrace |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
@@ -62,11 +63,12 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 # Private Contests / Audits
 
-|                                   Contest                                   | High risk | Medium risk | Low risk | Ranking |                                                      Security report                                                       |
-| :-------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-----: | :------------------------------------------------------------------------------------------------------------------------: |
-|        [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)        |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
-|       [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters)        |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
-| [WorldCoin Bridge Linea](https://github.com/kfastov/worldcoin-bridge-linea) |     1     |      1      |    1     |    -    |    [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_WorldCoin_Bridge_Linea_Security_Review.pdf)    |
+|                                                            Contest                                                            | High risk | Medium risk | Low risk | Ranking |                                                      Security report                                                       |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-----: | :------------------------------------------------------------------------------------------------------------------------: |
+|                                 [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)                                 |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
+|                                [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters)                                 |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
+|                          [WorldCoin Bridge Linea](https://github.com/kfastov/worldcoin-bridge-linea)                          |     1     |      1      |    1     |    -    |    [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_WorldCoin_Bridge_Linea_Security_Review.pdf)    |
+| [MidNight](https://github.com/KM-Ghosts-Marktetplace/Smart-Contracts/tree/17d393db121b02762fe9d56579491589f26a50c2/Contracts) |    11     |      1      |    1     |    -    |                [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Midnight_2nd_audit.pdf)                 |
 
 # Judging Contests
 
