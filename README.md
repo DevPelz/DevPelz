@@ -63,12 +63,11 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 # Private Contests / Audits
 
-|                                                            Contest                                                            | High risk | Medium risk | Low risk | Ranking |                                                      Security report                                                       |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-----: | :------------------------------------------------------------------------------------------------------------------------: |
-|                                 [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)                                 |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
-|                                [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters)                                 |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
-|                          [WorldCoin Bridge Linea](https://github.com/kfastov/worldcoin-bridge-linea)                          |     1     |      1      |    1     |    -    |    [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_WorldCoin_Bridge_Linea_Security_Review.pdf)    |
-| [MidNight](https://github.com/KM-Ghosts-Marktetplace/Smart-Contracts/tree/17d393db121b02762fe9d56579491589f26a50c2/Contracts) |    11     |      1      |    1     |    -    |                [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Midnight_2nd_audit.pdf)                 |
+|                                   Contest                                   | High risk | Medium risk | Low risk | Ranking |                                                      Security report                                                       |
+| :-------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-----: | :------------------------------------------------------------------------------------------------------------------------: |
+|        [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)        |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
+|       [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters)        |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
+| [WorldCoin Bridge Linea](https://github.com/kfastov/worldcoin-bridge-linea) |     1     |      1      |    1     |    -    |    [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_WorldCoin_Bridge_Linea_Security_Review.pdf)    |
 
 # Judging Contests
 
