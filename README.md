@@ -24,7 +24,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 36 High/Medium | 27 Highs  |  9 Mediums  |  11 Lows  |
+| 40 High/Medium | 29 Highs  | 11 Mediums  |  11 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -68,6 +68,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |        [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)        |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
 |       [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters)        |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
 | [WorldCoin Bridge Linea](https://github.com/kfastov/worldcoin-bridge-linea) |     1     |      1      |    1     |    -    |    [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_WorldCoin_Bridge_Linea_Security_Review.pdf)    |
+|             [Gluex Protocol](https://github.com/gluexprotocol)              |     2     |      2      |    -     |    -    |         [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_GlueX_Router_Security_Review.pdf)         |
 
 # Judging Contests
 
