@@ -24,7 +24,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 40 High/Medium | 29 Highs  | 11 Mediums  |  11 Lows  |
+| 41 High/Medium | 29 Highs  | 12 Mediums  |  11 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -38,6 +38,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |      [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy)       |     -     |      -      |    1     | [Report](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |  17th   |           |
 |             [Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros)             |     2     |      1      |    2     |  [Report](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&sc=reward&sj=reward&page=1&t=report)   |  45th   |           |
 |             [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)             |     2     |      -      |    1     |                     [Report](https://codehawks.cyfrin.io/c/2024-08-tadle/results?t=report)                      |    -    |           |
+|         [Swan Dria](https://codehawks.cyfrin.io/c/2024-10-swan-dria)         |     -     |      1      |    -     |                         [Report](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/541)                         |    -    |           |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
