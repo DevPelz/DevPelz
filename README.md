@@ -24,7 +24,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 42 High/Medium | 27 Highs  | 15 Mediums  |  16 Lows  |
+| 46 High/Medium | 28 Highs  | 18 Mediums  |  16 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -40,13 +40,14 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
-|                                 Contest                                 | High risk | Medium risk | Low risk |                              Security Report                              | Ranking | Team Name |
-| :---------------------------------------------------------------------: | :-------: | :---------: | :------: | :-----------------------------------------------------------------------: | :-----: | --------- |
-|      [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top)      |     2     |      1      |    -     | [Report](https://github.com/code-423n4/2024-02-ai-arena-findings/issues)  |  260th  |           |
-|          [Noya](https://code4rena.com/audits/2024-04-noya#top)          |     -     |      1      |    -     |  [Report](https://github.com/code-423n4/2024-04-noya-findings/issues/51)  |  109th  |           |
-|         [Predy](https://code4rena.com/audits/2024-05-predy#top)         |     -     |      1      |    -     | [Report](https://github.com/code-423n4/2024-05-predy-findings/issues/246) |  51st   |           |
-|      [ThorWallet](https://code4rena.com/audits/2025-02-thorwallet)      |     1     |      -      |    -     |                              [Coming soon]()                              |  18th   |           |
-| [Next Generation](https://code4rena.com/audits/2025-01-next-generation) |     1     |      -      |    -     |                              [Coming soon]()                              |  25th   |           |
+|                                 Contest                                 | High risk | Medium risk | Low risk |                               Security Report                               | Ranking | Team Name |
+| :---------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------: | :-----: | --------- |
+|      [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top)      |     2     |      1      |    -     |  [Report](https://github.com/code-423n4/2024-02-ai-arena-findings/issues)   |  260th  |           |
+|          [Noya](https://code4rena.com/audits/2024-04-noya#top)          |     -     |      1      |    -     |   [Report](https://github.com/code-423n4/2024-04-noya-findings/issues/51)   |  109th  |           |
+|         [Predy](https://code4rena.com/audits/2024-05-predy#top)         |     -     |      1      |    -     |  [Report](https://github.com/code-423n4/2024-05-predy-findings/issues/246)  |  51st   |           |
+|      [ThorWallet](https://code4rena.com/audits/2025-02-thorwallet)      |     1     |      -      |    -     | [Report](https://code4rena.com/audits/2025-02-thorwallet/submissions/S-374) |   🥉    |           |
+| [Next Generation](https://code4rena.com/audits/2025-01-next-generation) |     1     |      -      |    -     |                               [Coming soon]()                               |  25th   |           |
+|        [Nudgexyz](https://code4rena.com/audits/2025-03-nudgexyz)        |     -     |      1      |    -     |                               [Coming soon]()                               |    -    |           |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" width=27 height=27> Sherlock
 
@@ -55,6 +56,9 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 | [Exactly Protocol](https://audits.sherlock.xyz/contests/396) |     -     |      1      | [Report](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues/22) |   4th   | HackTrace |
 |   [Velocimeter](https://audits.sherlock.xyz/contests/442)    |     1     |      -      |                    [Report](https://audits.sherlock.xyz/contests/442/report)                     |    -    | HackTrace |
 |     [ZeroLend](https://audits.sherlock.xyz/contests/466)     |     -     |      1      |                    [Report](https://audits.sherlock.xyz/contests/466/report)                     |    -    | HackTrace |
+|     [Yieldoor](https://audits.sherlock.xyz/contests/791)     |     -     |      1      |         [Report](https://github.com/sherlock-audit/2025-02-yieldoor-judging/issues/564)          |    -    |     -     |
+|      [Symmio](https://audits.sherlock.xyz/contests/838)      |     -     |      1      |     [Report](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/101)      |    -    |     -     |
+| [Crestal Network](https://audits.sherlock.xyz/contests/755)  |     1     |      -      |      [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/52)       |    -    |     -     |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
