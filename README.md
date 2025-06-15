@@ -1,7 +1,11 @@
 # About Me
 
-Hey 👋, Pelz here! I'm an independent blockchain security researcher, actively competing in audit contests on platforms like Code4rena, Sherlock, and Codehawks. My mission as an auditor is to safeguard decentralized ecosystems by identifying and fixing vulnerabilities before they can be exploited. With extensive experience in smart contract auditing, I focus on providing tailored security insights to protect your projects. Whether you're looking to strengthen your protocols or launch securely, I’m here to help make your smart contracts bulletproof.
-You can contact me for private audits through any of my socials and check out my past findings and contest results below.
+Hey 👋, I’m Pelz — an independent blockchain security researcher focused on smart contract auditing.
+I actively compete in top-tier audit contests like Code4rena, Sherlock, and Codehawks, where I’ve earned recognition for identifying critical vulnerabilities across a wide range of protocols.
+
+My mission is to help projects launch and scale securely by uncovering and mitigating risks before they’re exploited. With deep experience in Solidity and a strong track record in both public and private audits, I provide clear, actionable insights that strengthen your protocol’s security posture.
+
+If you're looking to safeguard your smart contracts or need a reliable auditor for your next launch, I’m available for private audits. You can reach out through any of my socials — and feel free to explore my past findings and contest results below.
 
 - Code4rena Profile: [Pelz](https://code4rena.com/@Pelz)
 - Sherlock Profile: [Pelz](https://audits.sherlock.xyz/watson/Pelz)
@@ -24,7 +28,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 47 High/Medium | 29 Highs  | 18 Mediums  |  16 Lows  |
+| 58 High/Medium | 34 Highs  | 24 Mediums  |  17 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -37,6 +41,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |       [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)        |     2     |      -      |    1     |                     [Report](https://codehawks.cyfrin.io/c/2024-08-tadle/results?t=report)                      |    -    |           |
 |   [Swan Dria](https://codehawks.cyfrin.io/c/2024-10-swan-dria)    |     -     |      1      |    -     |                         [Report](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/541)                         |    -    |           |
 |   [Zaros 2](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2)   |     -     |      1      |    -     |                       [Report](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/907)                        |    -    |           |
+|        [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac)         |     5     |      6      |    1     |             [Report](https://github.com/DevPelz/DevPelz/blob/main/CodeHawks/Pelz-Core-Contracts.md)             |    -    |           |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
