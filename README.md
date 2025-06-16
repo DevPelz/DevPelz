@@ -28,7 +28,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 58 High/Medium | 34 Highs  | 24 Mediums  |  17 Lows  |
+| 59 High/Medium | 34 Highs  | 25 Mediums  |  17 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -65,6 +65,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |      [Symmio](https://audits.sherlock.xyz/contests/838)      |     -     |      1      |     [Report](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/101)      |    -    |     -     |
 | [Crestal Network](https://audits.sherlock.xyz/contests/755)  |     1     |      -      |      [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/52)       |    -    |     -     |
 |      [zkp2p](https://audits.sherlock.xyz/contests/805)       |     1     |      -      |                                       [Private report](#)                                        |   4th   |     -     |
+|     [ExtraFi](https://audits.sherlock.xyz/contests/826)      |     -     |      1      |                                       [Private report](#)                                        |   6th   |     -     |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
