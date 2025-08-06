@@ -28,7 +28,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 62 High/Medium | 37 Highs  | 25 Mediums  |  19 Lows  |
+| 65 High/Medium | 39 Highs  | 26 Mediums  |  19 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -51,8 +51,9 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |          [Noya](https://code4rena.com/audits/2024-04-noya#top)          |     -     |      1      |    -     |   [Report](https://github.com/code-423n4/2024-04-noya-findings/issues/51)   |  109th  |           |
 |         [Predy](https://code4rena.com/audits/2024-05-predy#top)         |     -     |      1      |    -     |  [Report](https://github.com/code-423n4/2024-05-predy-findings/issues/246)  |  51st   |           |
 |      [ThorWallet](https://code4rena.com/audits/2025-02-thorwallet)      |     1     |      -      |    -     | [Report](https://code4rena.com/audits/2025-02-thorwallet/submissions/S-374) |   🥉    |           |
-| [Next Generation](https://code4rena.com/audits/2025-01-next-generation) |     1     |      -      |    -     |                               [Coming soon]()                               |  25th   |           |
-|        [Nudgexyz](https://code4rena.com/audits/2025-03-nudgexyz)        |     -     |      1      |    -     |                               [Coming soon]()                               |    -    |           |
+| [Next Generation](https://code4rena.com/audits/2025-01-next-generation) |     1     |      -      |    -     |       [Report](https://code4rena.com/reports/2025-01-next-generation)       |  25th   |           |
+|        [Nudgexyz](https://code4rena.com/audits/2025-03-nudgexyz)        |     -     |      1      |    -     |           [Report](https://code4rena.com/audits/2025-03-nudgexyz)           |    -    |           |
+|   [Virtuals](https://code4rena.com/reports/2025-04-virtuals-protocol)   |     2     |      1      |    -     |      [Report](https://code4rena.com/reports/2025-04-virtuals-protocol)      |   7th   |           |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" width=27 height=27> Sherlock
 
