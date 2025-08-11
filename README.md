@@ -28,7 +28,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 65 High/Medium | 39 Highs  | 26 Mediums  |  19 Lows  |
+| 69 High/Medium | 41 Highs  | 28 Mediums  |  23 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -84,6 +84,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |             [Gluex Protocol](https://github.com/gluexprotocol)              |     2     |      2      |    -     |         [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_GlueX_Router_Security_Review.pdf)         |
 |                             [Sedl Protocol](#)                              |     2     |      2      |    5     |             [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz_SEDL_Security_Review.pdf)             |
 |             [Gluex Protocol](https://github.com/gluexprotocol)              |     3     |      -      |    2     |      [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz-Gluex-Router-Security-Review-July.pdf)       |
+|             [Gluex Protocol](https://github.com/gluexprotocol)              |     2     |      2      |    4     |        [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz-GluexProtocol-Security-Review.pdf)         |
 
 # Judging Contests
 
