@@ -72,7 +72,7 @@ Always seeking new opportunities! Whether it's a security audit, or collaboratio
 | :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
 | [Royco Protocol](https://cantina.xyz/code/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/README.md) |     1     |      -      | [Report](https://cantina.xyz/code/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/findings/411) |   83    |     -     |
 
-# Private Contests / Audits
+# Private Audits
 
 |                                   Contest                                   | High risk | Medium risk | Low risk |                                                      Security report                                                       |
 | :-------------------------------------------------------------------------: | :-------: | :---------: | :------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -84,6 +84,11 @@ Always seeking new opportunities! Whether it's a security audit, or collaboratio
 |             [Gluex Protocol](https://github.com/gluexprotocol)              |     3     |      -      |    2     |      [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz-Gluex-Router-Security-Review-July.pdf)       |
 |             [Gluex Protocol](https://github.com/gluexprotocol)              |     2     |      2      |    4     |        [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Pelz-GluexProtocol-Security-Review.pdf)         |
 |                   [CoinSafe](https://x.com/Coinsafe_safe)                   |     3     |      1      |    3     |          [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Coinsafe-Security-Report-Final.pdf)           |
+|                             [Pear Protocol](#)                              |     -     |      -      |    1     |              [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Pear_Protocol_Audit.pdf)              |
+|                                 [Beezie](#)                                 |     3     |      1      |    4     |                [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Beezie_Official.pdf)                |
+|                                 [Shogun](#)                                 |     -     |      -      |    3     |                 [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Shogun-report.pdf)                 |
+|                              [Vyper-Boost](#)                               |     -     |      1      |    3     |              [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)               |
+|                           [10102-Inheritance](#)                            |     5     |      3      |    5     |           [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/10102-Inheritance-report.pdf)            |
 
 # Judging Contests
 
