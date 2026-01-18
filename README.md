@@ -1,17 +1,18 @@
 # About Me
 
-Hey 👋, I’m Pelz — an independent blockchain security researcher focused on smart contract auditing.
-I actively compete in top-tier audit contests like Code4rena, Sherlock, and Codehawks, where I’ve earned recognition for identifying critical vulnerabilities across a wide range of protocols.
-With deep experience in Solidity and a strong track record in both public and private audits, I provide clear, actionable insights that strengthen your protocol’s security posture.
-If you're looking to safeguard your smart contracts or need a reliable auditor for your next launch, I’m available for private audits. You can reach out through any of my socials — and feel free to explore my past findings and contest results below.
+I do Smart contract Audits.
+
+Security Researcher at [Guild Audits](https://x.com/GuildAudits)
 
 - Code4rena Profile: [Pelz](https://code4rena.com/@Pelz)
 - Sherlock Profile: [Pelz](https://audits.sherlock.xyz/watson/Pelz)
 - CodeHawks Profile: [Pelz](https://www.codehawks.com/profile/clokuwofs000yih08n1oqrf6d)
 
+Worked with [CDSecurity](https://cdsecurity.io/) [Shieldify](shieldify.org)
+
 ## Contact Information
 
-Always seeking new opportunities! Whether it's a security audit, or collaboration, hit me up. Let's make things happen!
+Request an audit at:
 
 - Twitter: [@Pelz_Dev](https://twitter.com/Pelz_Dev)
 - Telegram: [@Devpelzz](https://t.me/Devpelzz)
