@@ -27,7 +27,7 @@ Request an audit at:
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 73 High/Medium | 44 Highs  | 29 Mediums  |  26 Lows  |
+| 75 High/Medium | 46 Highs  | 29 Mediums  |  26 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -53,6 +53,7 @@ Request an audit at:
 | [Next Generation](https://code4rena.com/audits/2025-01-next-generation) |     1     |      -      |    -     |       [Report](https://code4rena.com/reports/2025-01-next-generation)       |  25th   |           |
 |        [Nudgexyz](https://code4rena.com/audits/2025-03-nudgexyz)        |     -     |      1      |    -     |           [Report](https://code4rena.com/audits/2025-03-nudgexyz)           |    -    |           |
 |   [Virtuals](https://code4rena.com/reports/2025-04-virtuals-protocol)   |     2     |      1      |    -     |      [Report](https://code4rena.com/reports/2025-04-virtuals-protocol)      |   7th   |           |
+|   [GTE](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)   |     2     |      -      |    -     |   [Report](https://code4rena.com/reports/2025-08-gte-perps-and-launchpad)   |    -    |           |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" width=27 height=27> Sherlock
 
