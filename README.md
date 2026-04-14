@@ -1,23 +1,33 @@
-# About Me
+# Pelz | Smart Contract Security Researcher
 
-I do Smart contract Audits.
+Independent smart contract security researcher with expertise across Solidity, Move, and Rust.
 
-Security Researcher at [Guild Audits](https://x.com/GuildAudits)
+### Affiliations
 
-- Code4rena Profile: [Pelz](https://code4rena.com/@Pelz)
-- Sherlock Profile: [Pelz](https://audits.sherlock.xyz/watson/Pelz)
-- CodeHawks Profile: [Pelz](https://www.codehawks.com/profile/clokuwofs000yih08n1oqrf6d)
+| Organization                              | Role                |
+| :---------------------------------------- | :------------------ |
+| [Guild Audits](https://x.com/GuildAudits) | Security Researcher |
+| [CDSecurity](https://cdsecurity.io/)      | Security Researcher |
+| [Shieldify](https://shieldify.org)        | Security Researcher |
 
-Worked with [CDSecurity](https://cdsecurity.io/) [Shieldify](shieldify.org)
+### Competitive Audit Profiles
 
-## Contact Information
+| Platform  | Profile                                                             |
+| :-------- | :------------------------------------------------------------------ |
+| Code4rena | [Pelz](https://code4rena.com/@Pelz)                                 |
+| Sherlock  | [Pelz](https://audits.sherlock.xyz/watson/Pelz)                     |
+| CodeHawks | [Pelz](https://www.codehawks.com/profile/clokuwofs000yih08n1oqrf6d) |
 
-Request an audit at:
+### Contact
 
-- Twitter: [@Pelz_Dev](https://twitter.com/Pelz_Dev)
-- Telegram: [@Devpelzz](https://t.me/Devpelzz)
-- Email: [devpelz64@gmail.com](devpelz64@gmail.com)
-- Discord: devpelz
+I am available for security reviews. Reach out via any of the following:
+
+| Platform | Handle                                            |
+| :------- | :------------------------------------------------ |
+| Twitter  | [@Pelz_Dev](https://twitter.com/Pelz_Dev)         |
+| Telegram | [@Devpelzz](https://t.me/Devpelzz)                |
+| Email    | [devpelz64@gmail.com](mailto:devpelz64@gmail.com) |
+| Discord  | devpelz                                           |
 
 # Summary - Pelz
 
@@ -27,7 +37,7 @@ Request an audit at:
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 75 High/Medium | 46 Highs  | 29 Mediums  |  26 Lows  |
+| 86 High/Medium | 51 Highs  | 35 Mediums  |  37 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -67,6 +77,7 @@ Request an audit at:
 | [Crestal Network](https://audits.sherlock.xyz/contests/755)  |     1     |      -      |      [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/52)       |    -    |     -     |
 |      [zkp2p](https://audits.sherlock.xyz/contests/805)       |     1     |      -      |                                       [Private report](#)                                        |   4th   |     -     |
 |     [ExtraFi](https://audits.sherlock.xyz/contests/826)      |     -     |      1      |                                       [Private report](#)                                        |   6th   |     -     |
+| [Current Finance](https://audits.sherlock.xyz/contests/1256) |     2     |      2      |                  [Report](https://audits.sherlock.xyz/contests/1256/voting/501)                  |   6th   | Demonhatz |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
@@ -91,6 +102,7 @@ Request an audit at:
 |                                 [Shogun](#)                                 |     -     |      -      |    3     |                 [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Shogun-report.pdf)                 |
 |                              [Vyper-Boost](#)                               |     -     |      1      |    3     |              [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)               |
 |                           [10102-Inheritance](#)                            |     5     |      3      |    5     |           [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/10102-Inheritance-report.pdf)            |
+|                               [Thetanuts](#)                                |     3     |      4      |    11    |              [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Thetanuts-final-report.pdf)               |
 
 # Judging Contests
 
