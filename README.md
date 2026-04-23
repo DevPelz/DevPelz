@@ -1,6 +1,6 @@
 # Pelz | Smart Contract Security Researcher
 
-Independent smart contract security researcher with expertise across Solidity, Move, and Rust.
+Independent smart contract security researcher 7x top 10 in contests with expertise across Solidity, Move, and Rust.
 
 ### Affiliations
 
@@ -67,17 +67,18 @@ I am available for security reviews. Reach out via any of the following:
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" width=27 height=27> Sherlock
 
-|                           Contest                            | High risk | Medium risk |                                         Security Report                                          | Ranking | Team Name |
-| :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :-------: |
-| [Exactly Protocol](https://audits.sherlock.xyz/contests/396) |     -     |      1      | [Report](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues/22) |   4th   | HackTrace |
-|   [Velocimeter](https://audits.sherlock.xyz/contests/442)    |     1     |      -      |                    [Report](https://audits.sherlock.xyz/contests/442/report)                     |    -    | HackTrace |
-|     [ZeroLend](https://audits.sherlock.xyz/contests/466)     |     -     |      1      |                    [Report](https://audits.sherlock.xyz/contests/466/report)                     |    -    | HackTrace |
-|     [Yieldoor](https://audits.sherlock.xyz/contests/791)     |     -     |      1      |         [Report](https://github.com/sherlock-audit/2025-02-yieldoor-judging/issues/564)          |    -    |     -     |
-|      [Symmio](https://audits.sherlock.xyz/contests/838)      |     -     |      1      |     [Report](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/101)      |    -    |     -     |
-| [Crestal Network](https://audits.sherlock.xyz/contests/755)  |     1     |      -      |      [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/52)       |    -    |     -     |
-|      [zkp2p](https://audits.sherlock.xyz/contests/805)       |     1     |      -      |                                       [Private report](#)                                        |   4th   |     -     |
-|     [ExtraFi](https://audits.sherlock.xyz/contests/826)      |     -     |      1      |                                       [Private report](#)                                        |   6th   |     -     |
-| [Current Finance](https://audits.sherlock.xyz/contests/1256) |     2     |      2      |                  [Report](https://audits.sherlock.xyz/contests/1256/voting/501)                  |   6th   | Demonhatz |
+|                           Contest                            | High risk | Medium risk |                                         Security Report                                          | Ranking  | Team Name |
+| :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :------: | :-------: |
+| [Exactly Protocol](https://audits.sherlock.xyz/contests/396) |     -     |      1      | [Report](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues/22) |   4th    | HackTrace |
+|   [Velocimeter](https://audits.sherlock.xyz/contests/442)    |     1     |      -      |                    [Report](https://audits.sherlock.xyz/contests/442/report)                     |    -     | HackTrace |
+|     [ZeroLend](https://audits.sherlock.xyz/contests/466)     |     -     |      1      |                    [Report](https://audits.sherlock.xyz/contests/466/report)                     |    -     | HackTrace |
+|     [Yieldoor](https://audits.sherlock.xyz/contests/791)     |     -     |      1      |         [Report](https://github.com/sherlock-audit/2025-02-yieldoor-judging/issues/564)          |    -     |     -     |
+|      [Symmio](https://audits.sherlock.xyz/contests/838)      |     -     |      1      |     [Report](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/101)      |    -     |     -     |
+| [Crestal Network](https://audits.sherlock.xyz/contests/755)  |     1     |      -      |      [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/52)       |    -     |     -     |
+|      [zkp2p](https://audits.sherlock.xyz/contests/805)       |     1     |      -      |                                       [Private report](#)                                        |   4th    |     -     |
+|     [ExtraFi](https://audits.sherlock.xyz/contests/826)      |     -     |      1      |                                       [Private report](#)                                        |   6th    |     -     |
+| [Current Finance](https://audits.sherlock.xyz/contests/1256) |     2     |      2      |                  [Report](https://audits.sherlock.xyz/contests/1256/voting/501)                  |   6th    | Demonhatz |
+|  [Fluid Dex V2](https://audits.sherlock.xyz/contests/1225)   |     -     |      2      |                [Report](https://audits.sherlock.xyz/contests/1225?filter=results)                | 4th/1009 |     -     |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
