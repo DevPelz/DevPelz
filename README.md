@@ -37,7 +37,7 @@ I am available for security reviews. Reach out via any of the following:
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 86 High/Medium | 51 Highs  | 35 Mediums  |  37 Lows  |
+| 88 High/Medium | 51 Highs  | 37 Mediums  |  37 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
