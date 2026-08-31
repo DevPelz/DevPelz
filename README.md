@@ -1,14 +1,13 @@
 # Pelz | Smart Contract Security Researcher
 
-Independent smart contract security researcher 7x top 10 in contests with expertise across Solidity, Move, and Rust.
+I am an independent smart contract security researcher with over 10x top 10 in contests with expertise across Solidity, Move, and Rust.
 
 ### Affiliations
 
 | Organization                              | Role                |
 | :---------------------------------------- | :------------------ |
-| [Guild Audits](https://x.com/GuildAudits) | Security Researcher |
 | [CDSecurity](https://cdsecurity.io/)      | Security Researcher |
-| [Shieldify](https://shieldify.org)        | Security Researcher |
+| [Guild Audits](https://x.com/GuildAudits) | Security Researcher |
 
 ### Competitive Audit Profiles
 
@@ -35,9 +34,9 @@ I am available for security reviews. Reach out via any of the following:
 🥈 - 2nd
 🥉 - 3rd
 
-|    Overall     | High risk | Medium risk | Low Risks |
-| :------------: | :-------: | :---------: | :-------: |
-| 88 High/Medium | 51 Highs  | 37 Mediums  |  37 Lows  |
+|     Overall     | High risk | Medium risk | Low Risks |
+| :-------------: | :-------: | :---------: | :-------: |
+| 101 High/Medium | 55 Highs  | 46 Mediums  |  41 Lows  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -79,6 +78,8 @@ I am available for security reviews. Reach out via any of the following:
 |     [ExtraFi](https://audits.sherlock.xyz/contests/826)      |     -     |      1      |                                       [Private report](#)                                        |   6th    |     -     |
 | [Current Finance](https://audits.sherlock.xyz/contests/1256) |     2     |      2      |                  [Report](https://audits.sherlock.xyz/contests/1256/voting/501)                  |   6th    | Demonhatz |
 |  [Fluid Dex V2](https://audits.sherlock.xyz/contests/1225)   |     -     |      2      |                [Report](https://audits.sherlock.xyz/contests/1225?filter=results)                | 4th/1009 |     -     |
+|   [XRP Ripple](https://audits.sherlock.xyz/contests/1260)    |     2     |      4      |                [Report](https://audits.sherlock.xyz/contests/1260?filter=results)                |   8th    | Demonhatz |
+|    [Raindrops](https://audits.sherlock.xyz/contests/1283)    |     -     |      -      |                [Report](https://audits.sherlock.xyz/contests/1283?filter=results)                |    🥉    |     -     |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
@@ -104,6 +105,7 @@ I am available for security reviews. Reach out via any of the following:
 |                              [Vyper-Boost](#)                               |     -     |      1      |    3     |              [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)               |
 |                           [10102-Inheritance](#)                            |     5     |      3      |    5     |           [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/10102-Inheritance-report.pdf)            |
 |                               [Thetanuts](#)                                |     3     |      4      |    11    |              [Report](https://github.com/DevPelz/DevPelz/blob/main/PrivateAudits/Thetanuts-final-report.pdf)               |
+|                                 [Aidea](#)                                  |     3     |      5      |    4     |                                                        [Report](#)                                                         |
 
 # Judging Contests
 
